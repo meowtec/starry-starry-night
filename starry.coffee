@@ -123,3 +123,5 @@ class StarryNight
       @drawDot(dot)
       for next in dot.next
         @drawLine dot.x, dot.y, next.x, next.y
+
+window.StarryNight = StarryNight
