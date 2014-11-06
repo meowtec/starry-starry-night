@@ -1,0 +1,16 @@
+{
+  "name": "starry-starry-night",
+  "version": "0.1.0",
+  "description": "starry starry night on canvas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meowtec/starry-starry-night.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meowtec/starry-starry-night/issues"
+  },
+  "homepage": "https://github.com/meowtec/starry-starry-night"
+}
